@@ -10,7 +10,7 @@ public class GitBase {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
-        System.out.println(word1 + word2);
+        System.out.println(word1 + " " + word2);
         sayHello("Hello", "World!");
 
     }
