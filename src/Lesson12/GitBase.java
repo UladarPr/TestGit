@@ -12,6 +12,6 @@ public class GitBase {
         System.out.println("Method 1 is running: " + "Hello World!");
         System.out.println("Method 2 is running: " + word1 + " " + word2);
         sayHello("Hello", "World!");
-        System.out.println(word1 + word2);
+
     }
 }
